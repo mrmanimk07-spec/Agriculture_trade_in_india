@@ -1,0 +1,751 @@
+Year,Product,Country,Port,Export_Quantity_Tonnes,Import_Quantity_Tonnes,Export_Value_USD,Import_Value_USD,Tariff_Percent,Exchange_Rate,Category,Organic
+2021,Coffee,Bangladesh,Chennai,,,2503501,4307151,19.44,75.51,Cash Crop,Yes
+,Wheat,China,Kolkata,5569,2392,2188617,1169688,16.82,71.94,Food,No
+2022,Tea,China,Chennai,6356,7668,unknown,5958036,18.11,,Cash Crop,No
+2019,Wheat,Bangladesh,Cochin,,3001,2801910,1764588,12.31,79.2,Beverage,Yes
+,,China,Mumbai,1269,1288,,377384,15.84,75.71,Beverage,Yes
+2024,Spices,,Visakhapatnam,930,1023,369210,683364,20.14,75.83,Food,Yes
+2017,Coffee,Germany,Mumbai,1751,4777,350200,926738,9.95,71.26,Food,Yes
+2021,,China,Cochin,1236,4015,749016,1557820,20.15,73.28,Beverage,Yes
+2022,Rice,Sri Lanka,Mumbai,2910,5736,1679070,1743744,14.8,78.64,Beverage,No
+2019,Coffee,China,Mumbai,8767,1100,,363000,4.15,80.65,Beverage,Yes
+2018,Rice,UAE,Cochin,9618,3751,unknown,,0.62,77.41,,
+2022,Tea,USA,Mumbai,1119,2830,,670710,9.07,83.1,Beverage,Yes
+2022,Wheat,UAE,Kolkata,5337,7448,2732544,3016440,13.67,80.51,Beverage,
+2017,Spices,,Kolkata,1383,1638,1095336,1081080,21,74.05,Food,
+2020,Wheat,Sri Lanka,Mumbai,759,3928,468303,872016,3.19,76.79,Cash Crop,No
+N/A,,,,2110,2418,1856800,793104,20.01,83.16,Cash Crop,Yes
+2016,Spices,USA,Cochin,8690,7106,5874440,2565266,21.58,75.48,Beverage,No
+2022,Wheat,Vietnam,Kolkata,1833,7450,498576,2853350,3.77,80.62,Cash Crop,No
+2020,Coffee,USA,Visakhapatnam,2225,5839,756500,3585146,21.29,77.22,Cash Crop,No
+2016,,USA,,2271,486,1773651,180792,24.79,73.8,Cash Crop,Yes
+2019,Rice,USA,Visakhapatnam,8366,2878,3856726,2244840,18.17,66.05,Cash Crop,No
+2015,Wheat,Sri Lanka,Chennai,3571,1606,1924769,,19.62,70.65,Beverage,Yes
+2024,Rice,China,Kolkata,9128,7620,4627896,2712720,24.86,84.19,Cash Crop,No
+2020,Cotton,Vietnam,Mumbai,,5222,2541456,3947832,15.14,76.44,Cash Crop,Yes
+2023,Rice,UAE,Cochin,8791,3908,6276774,2012620,,74.11,Food,No
+2015,Spices,USA,Mumbai,8429,7530,,3200250,,83.32,Beverage,Yes
+N/A,Cotton,UK,Cochin,2197,1354,1700478,716266,15.36,,Food,Yes
+2017,Pulses,,Mumbai,5168,6919,3927680,3168902,14.53,,Food,Yes
+2021,Spices,China,Visakhapatnam,6497,6224,1786675,4854720,6.34,78.98,Beverage,No
+2018,Sugar,,Visakhapatnam,2857,2434,1068518,1014978,18.91,77.82,Cash Crop,No
+2023,Cotton,Sri Lanka,Visakhapatnam,,232,1238160,49416,2.04,64.83,Food,Yes
+2017,Pulses,Bangladesh,Chennai,8286,7240,3165252,3612760,23.11,71.78,Beverage,No
+2019,Coffee,Bangladesh,,,6737,782000,4331891,8.15,71.81,Cash Crop,No
+2017,Rice,,Visakhapatnam,2710,5615,715440,3773280,3.19,69.46,Beverage,No
+N/A,Wheat,Germany,Chennai,7000,7291,4711000,,11.06,,Food,
+N/A,,Germany,Cochin,,7227,463151,1589940,1.06,70.33,Cash Crop,
+2023,Rice,UAE,Mumbai,8838,7701,6566634,3950613,,64.98,,No
+2021,Pulses,Bangladesh,Chennai,5117,5625,1673259,4044375,22.57,,Beverage,No
+2016,Rice,China,Kolkata,8099,1639,5272449,,20.93,61.81,Cash Crop,Yes
+,,Sri Lanka,Chennai,6152,1637,unknown,325763,3.18,74.39,Food,Yes
+2023,Coffee,Bangladesh,Chennai,2196,709,531432,359463,3.16,,Food,No
+2016,,,Cochin,8995,209,5558910,149017,,78.13,Food,Yes
+2024,Cotton,China,Mumbai,6504,4003,4468248,2537902,23.11,,Beverage,Yes
+,Cotton,USA,Kolkata,9917,7231,2747009,1684823,11.52,62.18,,Yes
+2024,Cotton,,Visakhapatnam,3431,7395,1609139,5819865,12.47,65.05,Cash Crop,No
+2019,Pulses,,,7562,,6601626,4841465,7.96,73.64,Cash Crop,No
+2016,Spices,UAE,Chennai,5205,1061,2675370,472145,22.36,65.18,Food,No
+2018,Spices,USA,Cochin,3078,102,1129626,39270,,73.6,Cash Crop,No
+2021,Wheat,UK,Cochin,,6601,1581182,1353205,7.21,65.79,Food,No
+,Tea,,,3484,7040,1365728,3583360,7.47,81.22,Cash Crop,Yes
+2017,Cotton,UK,Kolkata,785,5191,511820,1344469,22.28,69.93,Food,No
+2015,Spices,Bangladesh,Mumbai,7631,5199,3678142,1772859,0.34,66.14,Cash Crop,Yes
+2018,Pulses,Germany,Kolkata,4383,6896,2344905,1668832,8.07,,Beverage,No
+2016,Wheat,Vietnam,Mumbai,7836,2357,unknown,,13.86,68.57,,Yes
+,Coffee,Vietnam,Visakhapatnam,7810,1278,unknown,267102,3.71,62.79,Food,No
+2018,Wheat,China,Mumbai,1719,,754641,5813524,2.3,74.26,Food,No
+2016,Spices,Vietnam,Cochin,6968,5640,4752176,1060320,20.38,,Cash Crop,No
+2020,Sugar,,,1531,6969,,4801641,22.36,77.87,Cash Crop,No
+2020,Pulses,Sri Lanka,Chennai,9167,5635,7251097,1115730,20.59,66.01,Beverage,No
+2024,Sugar,USA,Visakhapatnam,4813,1085,3629002,617365,22.47,,,No
+2018,Cotton,UK,Cochin,9657,3752,unknown,,13.83,67.06,Food,Yes
+2020,Sugar,Sri Lanka,Kolkata,9535,6096,2746080,987552,20.31,62.02,,No
+2016,Cotton,Germany,Cochin,5098,,4379182,757575,9.6,81.92,Food,Yes
+,Cotton,Vietnam,Chennai,262,7507,77028,1876750,16.66,78.22,Food,No
+2016,Spices,Germany,Chennai,2074,4995,1350174,1173825,24.72,67.54,Food,Yes
+2024,,Vietnam,Cochin,,7977,2126157,5304705,5.64,74.98,Beverage,
+,Cotton,USA,,8561,4499,2996350,,9.75,65.03,Beverage,Yes
+2022,Tea,UAE,Chennai,731,7856,521203,3825872,12,,Food,Yes
+,Coffee,USA,Kolkata,1005,5244,577875,1651860,3.45,62.87,Cash Crop,Yes
+2023,Wheat,Bangladesh,,2114,7066,,3759112,,60.1,Food,Yes
+2022,Wheat,UK,Visakhapatnam,9933,5885,5085696,3089625,20.74,72.55,Beverage,No
+2019,Spices,China,Cochin,,7778,5741128,4822360,,74.58,Food,Yes
+2016,Sugar,UAE,Visakhapatnam,,7808,,6176128,10.12,74.47,Beverage,No
+2019,Sugar,,Chennai,681,5610,390894,1009800,,61.36,Beverage,No
+2022,,,Chennai,,5136,3753750,,,67.85,Food,Yes
+N/A,Pulses,UAE,Cochin,9132,1314,7533900,210240,22.28,,Food,Yes
+2023,Rice,UK,Cochin,5447,7211,4324918,3252161,11.6,65.41,Cash Crop,No
+2023,Cotton,Vietnam,,2743,1934,1036854,473830,8,81.82,,Yes
+2015,Coffee,UAE,Kolkata,8117,7371,3319853,2498769,11.91,62.18,Cash Crop,Yes
+2023,Tea,Vietnam,Visakhapatnam,2397,,1675503,1119118,7.96,72.18,Food,Yes
+2021,Wheat,UK,Cochin,974,3217,645762,1096997,12.23,77.29,Beverage,Yes
+2023,Cotton,USA,Mumbai,,3847,,2442845,21.49,66.54,Cash Crop,Yes
+2022,Rice,UK,Mumbai,789,2391,246168,992265,14.81,,Cash Crop,Yes
+N/A,,UAE,Chennai,4100,6402,865100,3668346,,80.73,Cash Crop,Yes
+2022,Cotton,,Visakhapatnam,9714,3464,3157050,959528,9.12,64.76,Food,No
+2022,Spices,Germany,Cochin,771,5257,589044,2034459,18.46,82.93,Food,Yes
+,Wheat,UAE,,8027,867,4254310,436968,16.67,73.84,Food,No
+2015,Spices,UK,Visakhapatnam,1271,5945,612622,,,,Beverage,No
+2022,Tea,Germany,Chennai,5691,,1929249,3633070,14.32,70.77,,No
+2017,Rice,UK,Kolkata,9235,2487,unknown,1223604,6.42,67.8,Beverage,No
+2017,Rice,Sri Lanka,Visakhapatnam,,6518,,1916292,20.1,78.13,Cash Crop,Yes
+2015,Coffee,UK,Visakhapatnam,1549,,1109084,1526462,10.65,79.91,Cash Crop,No
+,Tea,USA,Kolkata,2639,938,unknown,371448,24.87,80.82,Food,
+N/A,Rice,,Visakhapatnam,4059,6001,1087812,3834639,,84.64,Cash Crop,
+,Tea,Vietnam,Chennai,6385,,2024045,,19.51,79.78,Food,No
+2024,Wheat,Vietnam,Chennai,5532,717,,182835,16.84,,Beverage,No
+2023,Sugar,UAE,Kolkata,4360,7868,1011520,2596440,19.19,68.48,Cash Crop,Yes
+2021,Rice,,Cochin,2461,,1272337,1591074,7.69,73.61,Food,Yes
+2023,Coffee,,Mumbai,6264,,1559736,1002750,,61.03,Cash Crop,
+,Wheat,Sri Lanka,Cochin,3770,5788,2593760,1377544,19.91,78.62,Cash Crop,Yes
+2016,Cotton,UAE,,1853,7876,,5347804,5.81,71.15,Food,Yes
+2015,Tea,UK,,8200,4282,3247200,2226640,5.65,60.5,,No
+2021,Cotton,,Kolkata,2038,,1322662,3338416,13.78,61.56,Cash Crop,
+2021,Spices,Bangladesh,,8662,5843,6565796,1489965,13.09,69.69,,No
+2022,Wheat,UK,Mumbai,,4573,5334728,1920660,7.06,74.59,Cash Crop,Yes
+2019,Cotton,China,,6688,5621,4353888,3664892,7.45,71.61,Beverage,No
+2017,Pulses,UAE,Mumbai,8716,6805,4253408,4586570,6.95,75.48,Cash Crop,Yes
+2022,Pulses,China,Visakhapatnam,6404,7104,unknown,1285824,19.29,72.01,Cash Crop,
+2020,Rice,UAE,,7445,868,unknown,470456,16.3,76.54,Food,Yes
+N/A,Tea,UK,Kolkata,7975,2238,7121675,422982,20.81,65.48,Beverage,No
+2015,Sugar,USA,Mumbai,9186,1156,5419740,424252,24.39,62.82,Food,Yes
+2017,Wheat,,Cochin,6733,2274,,525294,11.85,74.91,,No
+2019,Rice,,Cochin,697,247,288558,86450,1.67,72.12,Food,No
+2017,Coffee,Vietnam,,3162,2721,2292450,1621716,1.2,60.67,Beverage,No
+2015,Spices,China,Cochin,2436,7785,1008504,4491945,7.39,69.51,Food,No
+2019,Tea,Bangladesh,Mumbai,9979,6141,unknown,,,62.65,Food,No
+2024,Wheat,,Mumbai,672,6884,219744,,13.08,73.28,Food,Yes
+2021,Pulses,,Cochin,7621,3542,5151796,2100406,6.79,69.89,,Yes
+N/A,Wheat,UAE,Mumbai,6271,2498,3781413,,9.98,,Food,Yes
+2023,,China,Visakhapatnam,7197,7915,1640916,2976040,14.96,80.14,Beverage,Yes
+2024,,Sri Lanka,Chennai,2190,520,1176030,102440,,67.49,Beverage,Yes
+2024,Sugar,China,Visakhapatnam,6666,6411,3732960,1070637,3.85,,Cash Crop,No
+2017,Coffee,Vietnam,Visakhapatnam,4724,1998,3628032,1174824,,73.39,Beverage,No
+,Spices,UAE,Mumbai,1733,5074,1024203,1704864,13.62,75.46,Beverage,Yes
+2015,Coffee,UK,Chennai,1617,3949,674289,1950806,3.39,77.02,Cash Crop,Yes
+2018,Rice,UK,Mumbai,3748,2060,2897204,,22.34,,Food,Yes
+2018,Rice,Bangladesh,Kolkata,,3850,1420916,2452450,1.87,72.77,Cash Crop,No
+2019,Coffee,UK,Mumbai,3237,6825,1298037,2579850,22.69,70.72,Food,No
+2021,Spices,UK,,,7144,1530360,3850616,24.91,61.34,Food,No
+2021,,Vietnam,,197,5051,102637,,17.51,60.55,Beverage,Yes
+,Spices,USA,Chennai,,6368,2760450,2146016,19.26,68.95,Cash Crop,Yes
+2021,Spices,,Mumbai,8635,4168,6640315,1746392,8.43,68.34,Beverage,Yes
+2017,,Sri Lanka,Chennai,8274,3846,4335576,2907576,23.54,69.69,Beverage,Yes
+2020,Pulses,Germany,Cochin,8203,4038,5012033,1853442,,63.46,Food,No
+2016,Tea,USA,Kolkata,5513,284,,79804,18.31,,Beverage,Yes
+2024,Spices,Sri Lanka,Chennai,4766,,4194080,5061000,23.1,81.42,Cash Crop,Yes
+2023,Sugar,UAE,Cochin,710,5270,,1164670,24.38,83.47,Beverage,Yes
+2019,,USA,Chennai,1827,978,1229571,,20.83,72.31,Beverage,No
+2020,Spices,Vietnam,Chennai,,,1303318,2322195,7.58,77.52,Food,No
+2018,Spices,,Kolkata,5155,572,3216720,194480,24.16,81.39,Cash Crop,
+2024,Cotton,UAE,Visakhapatnam,2424,5954,2152512,3399734,15.7,,,
+2021,Pulses,Bangladesh,Visakhapatnam,9469,,3816007,961137,23.27,67.74,Food,No
+,,Germany,Chennai,9383,4576,7337506,1688544,16.9,83.42,Beverage,No
+2021,Rice,UAE,Mumbai,5874,4938,3442164,997476,7.68,72.89,Cash Crop,No
+2015,Cotton,UK,Cochin,6619,,1965843,1007400,9.25,72.43,Beverage,No
+2015,Sugar,China,Mumbai,1849,5882,1005856,3299802,13.76,64.46,Beverage,Yes
+N/A,Sugar,UAE,,881,,358567,3704976,19.75,,Food,Yes
+2023,Cotton,,Chennai,,7172,5453024,2768392,7.95,81.05,,Yes
+2018,Pulses,Germany,Chennai,6923,5892,5780705,3270060,14.49,75.35,Food,No
+2023,Coffee,China,Chennai,2205,5821,1730925,4406497,,68.15,Cash Crop,No
+,Tea,UK,Chennai,3967,1366,1447955,,20.39,64.79,Beverage,No
+2021,Pulses,Sri Lanka,Visakhapatnam,7293,2907,1611753,1151172,11.67,73.89,Cash Crop,No
+2020,,Sri Lanka,,,5058,1791828,1117818,1.92,74.6,,Yes
+2022,Spices,UAE,Visakhapatnam,2213,1174,,392116,,65.17,Beverage,Yes
+2023,Wheat,Vietnam,Visakhapatnam,5979,5671,unknown,879005,1.53,81.29,Food,Yes
+2019,Tea,Vietnam,Chennai,4070,5473,1701260,1942915,12.48,62.11,Cash Crop,Yes
+2015,Tea,China,Kolkata,9359,7064,,4895352,2.66,68.9,,Yes
+2017,Sugar,China,Cochin,7364,,5110616,,2.85,77.01,Beverage,Yes
+2024,Tea,UK,Mumbai,1677,1073,719433,575128,,66.85,Beverage,No
+2022,Cotton,Germany,Visakhapatnam,9303,5722,2037357,1287450,21.82,80.69,Beverage,No
+2020,Spices,Bangladesh,Cochin,2374,1428,1785248,465528,,78.5,Beverage,Yes
+2022,,Sri Lanka,Kolkata,,3424,1724243,1705152,24.65,79.73,,
+2023,Rice,Germany,Mumbai,6844,1569,2101108,633876,,62.98,Beverage,Yes
+2018,Spices,USA,Mumbai,2526,5827,1520652,2662939,15.35,63.51,Food,Yes
+2015,Pulses,Sri Lanka,Visakhapatnam,5646,7985,4488570,,15.41,67.16,Cash Crop,No
+2015,Spices,Germany,Chennai,6952,,4741264,1695468,11.44,72.95,,Yes
+2024,Sugar,Sri Lanka,Kolkata,,276,1500466,120336,9.92,78.7,Food,Yes
+2018,Spices,Bangladesh,Visakhapatnam,6511,5405,3991243,4026725,11.38,80.91,Beverage,Yes
+2021,Rice,USA,Kolkata,107,5018,54356,3191448,10.37,77.61,Cash Crop,No
+2016,Wheat,Vietnam,Chennai,8187,941,2726271,500612,18.26,,Food,No
+N/A,Cotton,Vietnam,Chennai,2655,5624,,3121320,,78.47,Beverage,No
+,Sugar,Bangladesh,Visakhapatnam,575,4122,156400,,4.94,67.66,Beverage,No
+2019,Pulses,UK,Chennai,5516,,3750880,3492668,4.51,66.63,Cash Crop,Yes
+2015,,USA,Cochin,8776,2307,4835576,1628742,6.56,77.4,Food,No
+2022,Sugar,UAE,Mumbai,7339,2838,5570301,2236344,13.13,64.82,Food,No
+2015,Coffee,Germany,Visakhapatnam,6810,446,3575250,345650,2.78,62.32,,No
+2015,Tea,USA,Kolkata,5100,5269,3274200,2239325,21.7,,Beverage,
+2016,Coffee,UK,Cochin,4754,2128,1421446,1381072,7.43,80.54,Cash Crop,No
+2016,,UK,Visakhapatnam,8178,7091,2109924,3446226,4.06,62.53,Cash Crop,No
+,Wheat,Bangladesh,Chennai,6163,7745,4357241,4879350,16.89,79.8,Food,Yes
+2021,Spices,Sri Lanka,Chennai,2385,4794,,2023068,0.95,80.29,Beverage,Yes
+2019,,USA,Chennai,,4474,3257676,926118,15.5,72.06,Food,Yes
+N/A,Sugar,Germany,Chennai,7071,,4603221,1567899,17.45,61.43,,Yes
+2015,Tea,USA,Kolkata,3625,5628,957000,1452024,5.37,64.36,Beverage,No
+,Rice,China,Cochin,2922,3943,2320068,1687604,,77.69,Food,Yes
+2016,Tea,Sri Lanka,Mumbai,5043,5097,1780179,2431269,9.09,77.79,Food,No
+2019,Rice,Germany,Kolkata,6630,2055,3082950,,2.46,82.46,Beverage,No
+2024,Tea,Vietnam,Kolkata,358,2066,99524,1287118,2.91,74.57,Cash Crop,No
+2020,Cotton,Germany,Mumbai,382,3221,196348,,6.36,63.1,Beverage,No
+2021,,UAE,Mumbai,,2718,1720278,1027404,7.39,63.04,Food,No
+2018,Wheat,Bangladesh,Chennai,4235,1928,3214365,1245488,13.25,78.03,,Yes
+2021,Spices,UAE,Kolkata,6729,1246,,380030,16.96,64.59,Food,No
+2022,Pulses,Germany,Visakhapatnam,3300,1822,2669700,1133284,14.82,68.21,Food,No
+2015,Spices,Sri Lanka,Mumbai,5210,211,3193730,88831,3.71,72.18,Cash Crop,
+2020,Coffee,USA,Mumbai,7267,4026,,607926,4.3,60.62,Cash Crop,Yes
+2022,Spices,,Cochin,712,1801,343896,1188660,21.97,66.22,Food,No
+2019,Sugar,USA,Visakhapatnam,787,825,509976,358875,13.96,70.2,Cash Crop,No
+2018,Cotton,Sri Lanka,Visakhapatnam,3790,7480,1895000,1211760,21.75,66.99,Cash Crop,Yes
+2016,Tea,Germany,,8904,5973,2377368,4521561,9.29,63.41,Cash Crop,No
+2020,,UK,Chennai,2407,6467,495842,4184149,15.36,78.2,Food,No
+2020,Sugar,USA,Cochin,7233,7220,2430288,2794140,13.09,80.33,,Yes
+2015,Sugar,UK,Visakhapatnam,6609,5197,2399067,1262871,7.98,66.44,Beverage,No
+2023,Rice,USA,,6006,6519,1693692,3174753,11.75,79.36,Beverage,No
+N/A,Spices,USA,Visakhapatnam,2691,989,2284659,316480,12.56,69.64,Food,No
+2017,Wheat,Vietnam,Cochin,7283,3270,4508177,2468850,5.02,72.67,Cash Crop,No
+,Pulses,Bangladesh,Cochin,5348,589,1454656,455297,7.88,81.4,Cash Crop,No
+2018,Wheat,Bangladesh,Kolkata,8866,6681,3865576,4783596,19.79,,Food,Yes
+2017,Coffee,China,Mumbai,5208,4967,1275960,3059672,22.89,80.13,Food,Yes
+2024,Cotton,UAE,Cochin,3704,1511,3026168,,,63.42,Beverage,
+N/A,Wheat,Sri Lanka,Kolkata,769,5234,354509,1528328,7.67,61.74,Beverage,No
+2017,Tea,Sri Lanka,Kolkata,4464,405,1674000,141750,4.88,82.34,,No
+,,Sri Lanka,Visakhapatnam,7429,3654,2711585,1202166,16.96,,,No
+2021,Coffee,China,Visakhapatnam,1383,3373,1183848,1730349,8.08,67.2,Cash Crop,Yes
+2018,Pulses,Bangladesh,Kolkata,1023,284,582087,178352,24.69,,Food,No
+2023,Wheat,Germany,Visakhapatnam,1225,6420,309925,,8.14,80.91,Food,No
+2015,Tea,UK,Cochin,1629,1598,,990760,9.85,81.56,Cash Crop,No
+2022,Rice,Vietnam,Chennai,9886,7530,6109548,4013490,15.08,67.9,Cash Crop,Yes
+2021,Cotton,UK,Cochin,8538,2146,6027828,1214636,20.04,81.31,Cash Crop,Yes
+2016,Coffee,Germany,Kolkata,3811,4263,2057940,1948191,11.74,61.02,Beverage,No
+2022,Rice,Vietnam,Kolkata,8104,2151,2641904,1716498,10.57,61.24,,No
+2015,Rice,China,Cochin,9852,1723,,889068,24.89,75.59,Beverage,No
+2023,Rice,Germany,Visakhapatnam,6374,6758,3607684,1013700,0.26,61.58,Cash Crop,Yes
+2023,Sugar,Sri Lanka,Visakhapatnam,3964,5213,1863080,1006109,22.38,68.12,Beverage,Yes
+N/A,,,Kolkata,7933,,unknown,531050,3.73,76.82,Cash Crop,Yes
+2021,Pulses,USA,Mumbai,6888,,5537952,1534698,,,Beverage,No
+2024,Spices,UK,Visakhapatnam,326,,,1359167,15.45,64.49,,Yes
+2017,Cotton,Bangladesh,Cochin,364,,unknown,2296980,8.55,67.03,Cash Crop,No
+2021,Sugar,Bangladesh,Visakhapatnam,9687,,4330089,1466028,21.85,71.44,Beverage,No
+2024,Spices,China,,745,,180290,712283,0.32,71.88,Food,Yes
+2023,Cotton,Vietnam,Kolkata,7644,1865,4402944,632235,5.67,79.58,Beverage,No
+2018,Rice,Bangladesh,Visakhapatnam,5669,,1360560,1622547,14.17,78.75,Beverage,Yes
+2015,Coffee,Sri Lanka,Cochin,3090,,,965850,8.79,71.42,Food,No
+2016,,UK,Kolkata,2604,7061,1070244,1807616,15.26,81.14,Cash Crop,
+2015,Tea,Germany,Mumbai,9446,4543,6536632,1730883,0.6,62.86,Food,Yes
+2019,Tea,Sri Lanka,Cochin,687,7355,,,2.91,66.38,Beverage,No
+2019,Wheat,China,Mumbai,9277,724,2207926,208512,3.18,80.7,Cash Crop,No
+2021,Spices,Sri Lanka,Mumbai,4179,436,2373672,333104,4.73,69.45,Beverage,No
+2023,Coffee,Germany,Chennai,,2208,1206800,,,84.53,Beverage,No
+2023,Pulses,UAE,Visakhapatnam,6399,2711,,1707930,18.8,,,No
+2017,Sugar,China,Cochin,3931,2114,2669149,1194410,22.64,79.8,Food,No
+2017,,UAE,Mumbai,9533,3901,6053455,2555155,20.88,70.06,Cash Crop,No
+2017,Wheat,USA,Chennai,8481,3303,2086326,,4.92,70.62,Cash Crop,No
+2018,Tea,UAE,Kolkata,9272,5029,7176528,2796124,11.03,69.57,Cash Crop,Yes
+2022,Sugar,USA,Cochin,9990,7753,5644350,5558901,4.99,77.98,Beverage,Yes
+2020,,USA,Mumbai,1815,4686,486420,2525754,6.61,73.69,Food,No
+2022,Rice,,,,4316,3261900,2119156,12.59,83.59,Food,No
+2015,Pulses,China,Chennai,5533,,2738835,5037326,1.7,66.27,Food,
+,Pulses,,Mumbai,1198,789,481596,506538,5.45,62.51,Cash Crop,
+2018,Spices,Germany,Visakhapatnam,,1451,1870960,494791,23.38,69.83,Food,Yes
+,Tea,Sri Lanka,Mumbai,2426,3309,1244538,2144232,11.65,75.42,Food,Yes
+2022,Pulses,,Cochin,9187,7051,3307320,2693482,11.13,81.52,Food,Yes
+2018,Coffee,,Cochin,6516,2327,3453480,,0.36,68.65,Cash Crop,No
+2020,Pulses,UK,Cochin,7080,3954,5147160,2056080,6.18,76.34,Food,
+,Sugar,UK,Chennai,6863,3973,3685431,1144224,21.66,68.75,Cash Crop,No
+2018,Rice,USA,Cochin,1774,4264,1428070,1270672,4.12,75.43,Food,Yes
+2017,,USA,Visakhapatnam,8050,3277,4049150,865128,10.38,82.12,Food,Yes
+2023,Spices,China,Mumbai,9222,2881,6473844,1725719,0.36,65.78,Food,Yes
+2017,Tea,Bangladesh,Kolkata,9015,3808,7653735,807296,11.96,70.11,Cash Crop,No
+2023,,UAE,Visakhapatnam,6149,2562,3302013,648186,0.53,84.83,,Yes
+,Sugar,USA,Visakhapatnam,1189,2201,890561,,20.49,81.71,Food,Yes
+2016,Coffee,Sri Lanka,Cochin,4678,3725,3920164,577375,20.62,74.12,,No
+2016,,China,Chennai,9227,2795,4373598,827320,,72.92,Cash Crop,Yes
+2020,Coffee,,,255,6141,92565,2044953,7.08,67.12,Cash Crop,Yes
+,Sugar,China,Chennai,9362,3916,6010404,693132,20.93,72.93,Food,No
+2023,Sugar,UAE,Mumbai,2058,7719,1066044,,13.57,,Beverage,No
+2018,Spices,UAE,Mumbai,6444,3814,5077872,1022152,9.35,77.13,Food,
+2015,Wheat,Germany,,,5851,unknown,2586142,15.63,67.25,,No
+2018,Spices,USA,Visakhapatnam,6244,,,3051360,,65.04,Cash Crop,
+,Tea,Vietnam,Mumbai,5163,2272,3025518,,3.57,66.63,Food,No
+2019,Rice,,Chennai,3930,7951,,5796279,18.56,64.24,Food,Yes
+2018,Coffee,Vietnam,Mumbai,9146,,8139940,1043014,6.1,62.39,Beverage,No
+2022,,China,Kolkata,8931,1747,6189183,569522,14.95,70.48,Beverage,
+2022,Rice,Germany,Visakhapatnam,9894,5590,6816966,2504320,9.63,62.83,Cash Crop,No
+N/A,Wheat,,Cochin,6759,7351,1838448,1521657,21.37,64.3,Beverage,
+2017,Pulses,Vietnam,Mumbai,541,,383028,1468016,23.81,73.68,Beverage,No
+,Pulses,,Kolkata,6140,4113,3616460,1879641,22.09,64.11,Cash Crop,No
+2015,Cotton,UK,,6025,5905,,4245695,6.77,61.6,Cash Crop,No
+2017,Pulses,USA,Cochin,7458,1574,3684252,687838,4.85,67.93,Cash Crop,No
+2020,Spices,USA,Mumbai,4728,4810,2685504,1221740,11.86,65.51,Cash Crop,
+2021,Pulses,Bangladesh,Chennai,6470,82,5777710,30914,0.18,72.88,Food,Yes
+N/A,Sugar,Germany,Mumbai,9628,6248,7201744,2474208,0.65,62.56,Cash Crop,
+N/A,Coffee,Sri Lanka,Kolkata,1048,4075,888704,2620225,13.83,78.79,,No
+2020,Spices,UAE,Cochin,8279,2616,6349993,606912,,82.66,Cash Crop,No
+2017,Rice,China,Mumbai,6215,,2398990,,24.86,78.59,Beverage,Yes
+2020,,USA,,559,3946,359996,1582346,,73.32,,Yes
+2022,Cotton,Vietnam,Mumbai,7668,3759,5896692,1894536,6.45,81.52,Food,No
+2016,Cotton,China,Visakhapatnam,4746,6205,2667252,2227595,2.84,77.37,,
+2019,Rice,China,Chennai,492,5697,158424,4318326,22.94,60.26,Cash Crop,Yes
+2015,Rice,Bangladesh,Kolkata,1887,769,730269,458324,19.45,69.85,Food,No
+2015,Rice,Sri Lanka,,7474,6748,6569646,4109532,20.56,81.27,Beverage,No
+2019,,USA,Mumbai,1238,6566,766322,4077486,22.57,68.65,Cash Crop,No
+2017,Cotton,China,,4841,4629,,,,60.88,Food,Yes
+2018,Cotton,USA,Visakhapatnam,7518,1022,3390618,655102,,78.65,Food,No
+2017,Wheat,UAE,Chennai,6462,3768,5285916,1077648,8.26,80.05,Cash Crop,No
+2015,Spices,Bangladesh,Visakhapatnam,,7445,1910392,,14.73,64.01,,Yes
+,Coffee,UAE,Kolkata,9758,6816,5210772,2269728,11.36,73.43,Cash Crop,No
+2019,Pulses,USA,Cochin,3774,4452,1098234,3281124,11.29,64.8,Food,Yes
+2020,Pulses,UK,Kolkata,1477,,1076733,2006472,,77.98,Beverage,
+2017,Sugar,Vietnam,Mumbai,6801,2257,,1401597,24.6,66.79,Food,Yes
+2023,Cotton,USA,Chennai,2697,4476,2322117,2345424,19.91,67.91,Food,Yes
+,Sugar,Sri Lanka,Visakhapatnam,241,6969,171351,4780734,18.92,81.12,Cash Crop,Yes
+2022,Spices,China,Visakhapatnam,2759,4370,932542,2884200,17.01,71.91,Food,Yes
+2015,Spices,China,Chennai,4696,3080,4212312,2242240,4.15,76.74,Cash Crop,No
+2019,Sugar,UAE,Chennai,9131,6922,3506304,2761878,1.48,70.06,Beverage,No
+2017,Cotton,Vietnam,Mumbai,5761,3625,2327444,2388875,17.27,67.45,,No
+2015,Sugar,Bangladesh,Kolkata,6242,5625,2577946,4381875,18.22,75.64,,Yes
+2018,Pulses,UK,Visakhapatnam,5726,3166,2605330,702852,1.17,63.87,Food,
+2019,,Germany,Mumbai,8887,3335,2968258,,23.2,69.32,Beverage,Yes
+2021,Pulses,Vietnam,Kolkata,8572,5228,6617584,2661052,2.28,65.23,Cash Crop,No
+2015,,China,Mumbai,523,693,150101,110187,7.15,77.39,,Yes
+2017,Cotton,Sri Lanka,Visakhapatnam,7099,4761,2882194,1713960,16.81,83.61,Food,
+N/A,Cotton,Vietnam,Chennai,4349,244,1426472,73444,4.25,84.89,,Yes
+2023,Coffee,UAE,Chennai,1850,4046,373700,623084,1.39,71.26,Food,No
+2024,Rice,UAE,Kolkata,4857,538,1554240,185072,8.28,66.31,Cash Crop,Yes
+2020,Tea,Germany,Cochin,2067,2254,1207128,,19.15,71.07,,No
+2024,Spices,Sri Lanka,Kolkata,4188,2707,unknown,1659391,10.34,81.18,Cash Crop,Yes
+2017,Cotton,Bangladesh,Cochin,4278,5395,1013886,1413490,16.32,65.15,Beverage,No
+,,Vietnam,Mumbai,7889,6605,4260060,2774100,14.49,,Cash Crop,No
+2022,,,Mumbai,3046,3326,unknown,1037712,0.56,68.55,Food,No
+N/A,Coffee,Bangladesh,Visakhapatnam,9741,1152,2143020,701568,24.71,84.65,Beverage,Yes
+2020,Spices,Sri Lanka,Cochin,,5293,2422854,,1.04,80.97,Food,Yes
+2021,Rice,Sri Lanka,Visakhapatnam,7980,6664,5218920,4698120,24.2,80.21,Beverage,Yes
+2016,Rice,USA,Chennai,5175,1291,4243500,556421,13.75,,Beverage,Yes
+2024,Coffee,UAE,Cochin,7330,565,3679660,175715,24.08,60.22,Beverage,Yes
+2016,Coffee,Vietnam,Kolkata,1631,5771,1296645,2885500,2.87,69.55,Beverage,No
+2024,Sugar,Sri Lanka,Chennai,,5273,2453460,3074159,12.26,67.55,Food,Yes
+2015,Cotton,,Chennai,7255,442,1944340,127738,4.24,60.93,Cash Crop,
+2022,Rice,Germany,Kolkata,4593,680,1506504,421600,1.27,72.63,Food,No
+N/A,Spices,Sri Lanka,Chennai,9435,3766,3726825,1058246,15.44,70.08,Cash Crop,Yes
+2023,Tea,China,Cochin,1033,1897,350187,447692,5.19,75.86,Food,No
+2020,,UAE,,1560,,1003080,898060,14.69,75.53,Beverage,Yes
+2021,Wheat,China,Chennai,2823,1029,1360686,531993,2.81,63.02,Beverage,Yes
+2024,Wheat,Vietnam,Cochin,385,4579,196735,1272962,8.3,84.42,,Yes
+2021,Coffee,Vietnam,Mumbai,364,3452,267176,1363540,19.54,64.67,Cash Crop,No
+2024,Sugar,UAE,Cochin,6916,7360,5975424,5520000,10.93,71.13,Food,Yes
+2017,Wheat,Vietnam,Visakhapatnam,1862,3921,886312,2850567,15.69,72.2,Cash Crop,Yes
+2016,Rice,China,Cochin,140,6733,36400,3548291,16.19,80.33,Food,Yes
+,Spices,Sri Lanka,Kolkata,5927,327,3070186,97446,21.09,62.48,Cash Crop,No
+2022,Spices,Sri Lanka,Visakhapatnam,8359,282,2098109,164124,8.12,70.72,Cash Crop,Yes
+2024,Coffee,USA,Mumbai,1087,1602,382624,1244754,17.18,75.71,,No
+2021,Cotton,,Kolkata,,,4031040,3547320,24.04,65.38,Beverage,No
+2023,Cotton,Vietnam,Cochin,7889,5259,unknown,3129105,18.26,75.69,Beverage,Yes
+2018,Tea,China,Visakhapatnam,5817,7709,4455822,4856670,12.25,83.09,Food,No
+2018,Coffee,Vietnam,Mumbai,3298,3320,1939224,1470760,,84.94,Cash Crop,No
+2015,Pulses,Vietnam,Kolkata,5474,2459,4089078,718028,18.49,60.81,Food,Yes
+2022,Tea,Bangladesh,Mumbai,,3562,4014690,1421238,,65.89,Cash Crop,Yes
+2017,Pulses,USA,Cochin,7283,75,2738408,33825,0.42,67.76,Beverage,Yes
+2021,Cotton,China,Mumbai,2624,7242,1472064,1260108,4.87,69.98,Beverage,No
+,Coffee,China,Chennai,,5563,4810401,1218297,20.26,66.06,Cash Crop,Yes
+2016,Pulses,Vietnam,,,6700,763384,5185800,,65.09,Cash Crop,No
+2021,Coffee,USA,Mumbai,,7518,4113820,1962198,18.29,83.86,Beverage,
+2020,Coffee,Sri Lanka,Cochin,,7556,1765344,3876228,9.3,82.96,Beverage,
+2017,Cotton,China,Cochin,878,6460,179990,,13.05,61.17,Food,No
+2023,Tea,Sri Lanka,Mumbai,9877,510,3042116,316200,,68.47,Beverage,No
+2024,Tea,USA,Cochin,1592,3814,1187632,915360,4.53,70.13,,Yes
+2020,Coffee,Sri Lanka,Visakhapatnam,760,6649,180880,4514671,23.93,65.98,Food,
+2024,Wheat,UAE,Visakhapatnam,,3481,1246728,1187021,22.25,75.72,Cash Crop,
+2024,Sugar,Bangladesh,Visakhapatnam,9591,5237,5984784,3671137,16.31,76.01,Food,No
+2020,Cotton,UK,Chennai,7951,5152,6591379,2014432,11.49,81.26,Cash Crop,Yes
+2015,Sugar,China,Mumbai,7256,7056,3337760,2025072,16.89,78.52,Beverage,Yes
+2018,Sugar,Germany,Chennai,2144,,1340000,1745302,15.47,,Cash Crop,No
+2024,Tea,Bangladesh,Cochin,7468,2044,2135848,672476,,76.34,Food,No
+2020,Tea,UK,Chennai,3616,,2401024,352080,1.48,66.85,Cash Crop,Yes
+2020,Wheat,Sri Lanka,Cochin,9350,1122,2571250,,15.82,74.83,,Yes
+2019,Sugar,China,Cochin,9268,7904,6209560,5706688,19.22,72.23,Cash Crop,No
+2015,Sugar,Sri Lanka,Kolkata,4677,6757,unknown,2304137,24.85,,Beverage,Yes
+2022,Coffee,,Visakhapatnam,827,3223,542512,496342,0.28,66.06,Beverage,Yes
+2019,Tea,USA,Cochin,7568,265,,102290,18.25,67.29,Cash Crop,No
+2019,Sugar,China,Kolkata,442,7655,193596,3521300,14.29,83.11,Cash Crop,No
+2021,Spices,UK,Visakhapatnam,1547,1773,1355172,,10.85,65.76,Cash Crop,
+2018,Wheat,UK,Cochin,6681,1642,unknown,336610,3.19,67.23,Food,Yes
+2020,Pulses,UAE,Cochin,6417,2656,5467284,1572352,10.23,69.23,Cash Crop,
+2018,Spices,UAE,Chennai,626,208,unknown,80288,8.86,76.59,Cash Crop,Yes
+2017,Spices,Vietnam,Chennai,6848,6682,5183936,2311972,7.57,62.96,Food,No
+2021,Pulses,,Visakhapatnam,505,,288355,3545954,18.27,83.85,Beverage,No
+2022,Cotton,Sri Lanka,Cochin,8086,3363,5611684,2421360,17.52,81.64,Cash Crop,Yes
+2018,Cotton,Germany,,9865,2891,8118895,1916733,14.73,,Cash Crop,Yes
+2016,Wheat,UK,Chennai,,1826,936960,,23.47,76.85,Beverage,No
+2024,,UK,Visakhapatnam,1946,2102,1167600,1069918,,60.42,,No
+2017,Sugar,UAE,Cochin,1578,7813,703788,1398527,,68.47,Food,Yes
+2015,Tea,Bangladesh,Cochin,871,5989,,1539173,16.4,79.89,,No
+2022,Wheat,UAE,Mumbai,5625,6554,4477500,4922054,4.97,,Cash Crop,
+2017,Coffee,Germany,,8870,6652,5756630,,7.88,67.06,Food,Yes
+2024,Pulses,,Cochin,,2345,200412,1376515,5.62,74.63,Beverage,No
+2021,Spices,Sri Lanka,Chennai,2107,5735,,4329925,1.73,66.41,Food,Yes
+N/A,Wheat,Bangladesh,Mumbai,1285,1746,1052415,1058076,20.69,83.35,Beverage,
+2019,Rice,UK,Visakhapatnam,2494,3043,541198,2324852,6.36,,Food,Yes
+2024,Rice,UAE,Mumbai,9402,2519,7568610,1622236,11.83,,Beverage,No
+2019,Cotton,,Chennai,4105,1996,,790416,1.08,72.7,Food,
+N/A,Pulses,Sri Lanka,Visakhapatnam,7529,3859,3674152,2670428,,78.76,Beverage,No
+2023,Tea,Germany,Mumbai,2361,6208,,4426304,8.26,67.77,Beverage,No
+2019,Sugar,China,Kolkata,3836,2833,3210732,2087921,18.62,,Beverage,No
+2015,Tea,USA,Chennai,6816,,unknown,2172072,10.31,81.42,Beverage,
+,Tea,USA,Chennai,4975,5291,3059625,2259257,4.89,71.67,Beverage,Yes
+2024,Tea,USA,Chennai,9021,6470,,,12.83,68.99,Cash Crop,No
+2015,Pulses,,,4478,5727,3730174,4363974,3.26,73.4,Beverage,No
+2016,Tea,UK,Kolkata,,2550,6719835,663000,11.01,77.93,Cash Crop,Yes
+2020,Coffee,UAE,Cochin,3551,7607,1115014,4062138,7.93,71.09,Beverage,No
+2023,Pulses,,Mumbai,7716,7511,6736068,2553740,22.8,83.47,Cash Crop,No
+,Coffee,Vietnam,Cochin,,3695,4302288,2361105,1.52,67.37,Cash Crop,Yes
+2019,Pulses,Vietnam,Mumbai,2900,2695,2143100,1549625,17.35,71.89,Food,No
+2015,Cotton,Sri Lanka,Kolkata,8433,6639,1770930,3678006,4.57,78.92,Beverage,Yes
+2021,Wheat,China,Kolkata,,6403,2231550,3099052,7.98,77.23,Food,Yes
+2019,Rice,Vietnam,Cochin,1555,7807,1365290,2794906,10.39,81.59,Food,No
+2020,Tea,,Visakhapatnam,6992,6907,3118432,1181097,22.7,84.92,Beverage,Yes
+2021,Cotton,China,,5908,2399,4478264,1823240,6.06,70.67,Food,
+2017,,Germany,Mumbai,,1982,2248096,707574,2.28,,Beverage,
+2024,Rice,UK,Cochin,4896,3344,1694016,525008,7.97,60.76,Food,No
+,Spices,UAE,Chennai,5193,1807,1646181,1225146,2.62,78.17,Beverage,No
+2019,Sugar,USA,,1425,6196,827925,4653196,3.21,81.85,Beverage,No
+2020,Coffee,Vietnam,Mumbai,5076,5135,unknown,1617525,14.35,65.52,Beverage,Yes
+2023,Spices,UAE,Visakhapatnam,9505,5687,8202815,3668115,1.52,,Cash Crop,Yes
+2019,Pulses,UK,Kolkata,1259,1166,985797,861674,0.77,61.56,Food,No
+,,Bangladesh,Mumbai,,2617,2669500,1512626,17.86,80.57,Cash Crop,No
+2018,Spices,Bangladesh,Kolkata,5087,3549,3601596,1107288,,67.78,Food,Yes
+2019,Sugar,UK,Cochin,4797,542,1611792,279130,3.13,70.04,,No
+2024,Cotton,Germany,Chennai,440,3356,164560,2265300,,72.57,Food,No
+,Rice,Sri Lanka,Visakhapatnam,3928,669,1916864,259572,,,Cash Crop,No
+2019,Spices,Sri Lanka,Kolkata,2068,3282,,725322,6.89,76.27,Food,No
+,Coffee,Germany,Mumbai,803,7938,175054,4715172,12.36,75.38,Cash Crop,No
+,Coffee,Bangladesh,Kolkata,5582,3873,unknown,2548434,3.04,64.39,Beverage,Yes
+2015,Wheat,Bangladesh,Mumbai,6476,6524,3425804,2727032,14.7,72.83,,No
+2019,Spices,,Kolkata,1900,2430,710600,1370520,7.9,77.88,Food,No
+2021,Tea,,Mumbai,5563,6243,3604824,2459742,15.67,84.33,Beverage,Yes
+2024,Spices,UAE,Cochin,5012,1596,,333564,20.21,65.04,Beverage,Yes
+2024,Cotton,Bangladesh,Mumbai,,5008,3314104,776240,15.29,60.24,Food,Yes
+2020,Rice,China,Mumbai,955,5837,324700,,7.39,61.88,Beverage,Yes
+2019,Rice,Vietnam,Chennai,2966,3613,866072,2008828,,69.4,Cash Crop,No
+2018,,USA,Mumbai,282,,123516,605730,8.19,80.51,Cash Crop,No
+2016,Spices,Bangladesh,Chennai,3212,,1297648,665350,4.12,,,No
+2018,Cotton,Germany,Visakhapatnam,,6465,4379430,995610,,71.42,,No
+2024,Sugar,USA,Chennai,4592,4725,2902144,3217725,19.77,68.23,Cash Crop,Yes
+2024,Pulses,UAE,Cochin,,1940,2629812,,9.62,,Food,Yes
+2017,Cotton,Germany,Chennai,1617,1325,,954000,10.9,71.26,Beverage,
+2024,Coffee,USA,Visakhapatnam,5102,,2520388,4031541,,66.37,Food,No
+2015,Cotton,Germany,,1456,2793,1221584,823935,14.74,68.8,Cash Crop,No
+2022,Rice,UAE,Kolkata,3729,6001,1793649,3222537,1.68,77.64,Food,No
+2019,Coffee,Vietnam,Kolkata,3728,7916,805248,3150568,,73.04,Food,Yes
+2018,Rice,China,Chennai,8310,7307,unknown,4932225,4.43,63.12,Cash Crop,No
+2022,Wheat,UAE,Chennai,6232,2543,2916576,1553773,18.08,,Cash Crop,Yes
+2021,Tea,UAE,Visakhapatnam,9424,7210,4938176,1168020,19.32,75.9,,Yes
+2016,Rice,Germany,Visakhapatnam,6688,5501,3370752,2932033,,79.15,Cash Crop,Yes
+2015,Coffee,Vietnam,Mumbai,3411,5308,2217150,3742140,,61.98,Cash Crop,Yes
+2018,Wheat,UK,Visakhapatnam,6148,406,1266488,222488,0.37,,Cash Crop,No
+2022,Rice,Sri Lanka,Mumbai,6346,5770,3255498,969360,9.01,60.49,Cash Crop,No
+2016,Sugar,,Cochin,1087,6467,,4682108,15.12,64.72,Cash Crop,No
+2017,Cotton,Bangladesh,Chennai,3421,7236,1341032,4631040,9.69,70.36,Cash Crop,No
+2015,Tea,,Cochin,4715,6152,3644695,,21.59,83.4,Beverage,Yes
+2015,Rice,China,,8465,6504,6162520,3160944,,71.43,Food,Yes
+2017,Wheat,Bangladesh,Cochin,3841,,1421170,521992,7.34,67.26,Cash Crop,Yes
+2019,Sugar,Sri Lanka,,3152,,unknown,,6.65,74.05,Food,No
+2017,Spices,Bangladesh,Cochin,6674,2051,unknown,555821,8.32,62.8,Beverage,Yes
+2015,Wheat,,Visakhapatnam,826,,484036,3687607,13.94,,Cash Crop,Yes
+2015,Cotton,Sri Lanka,Cochin,3860,5559,1567160,1072887,17.68,74.21,Food,Yes
+2022,Wheat,China,Mumbai,5906,1333,4370440,621178,16.56,79.8,,Yes
+2024,Sugar,USA,Visakhapatnam,1975,669,1635300,,20.19,84.67,Cash Crop,No
+2016,Wheat,Germany,Cochin,7093,932,4362195,274008,22.15,,Cash Crop,Yes
+2017,Sugar,,Visakhapatnam,4133,,2393007,402696,20.4,72.74,Cash Crop,Yes
+,Rice,UK,Kolkata,5543,3692,1901249,1890304,0.47,82.72,Cash Crop,No
+,,Vietnam,Mumbai,1089,6318,243936,1257282,18.4,79.63,Cash Crop,No
+2021,Sugar,China,Cochin,3844,3475,3332748,743650,5.21,72.19,Cash Crop,
+2015,Sugar,China,Kolkata,8711,1346,2369392,678384,3.32,83.63,Beverage,Yes
+2024,Tea,UAE,Kolkata,693,4764,575883,1491132,15.96,61.43,Beverage,Yes
+2022,Sugar,UK,Visakhapatnam,1874,5980,547208,1734200,7.99,,Cash Crop,Yes
+2024,Sugar,UAE,Kolkata,1035,294,728640,81438,1.43,61.26,Cash Crop,Yes
+2024,Spices,UAE,Mumbai,3908,2945,3114676,1610915,3.44,,Beverage,No
+2024,Pulses,Germany,Mumbai,431,6643,,,0.02,82.26,,
+2016,Rice,UAE,Chennai,8022,979,5005728,328944,22.58,66.57,Beverage,Yes
+2017,Cotton,Sri Lanka,Mumbai,2802,5416,1955796,,0.62,71.81,Cash Crop,No
+2023,Tea,Bangladesh,Kolkata,5989,569,3371807,305553,5.24,68.11,Food,No
+2021,Spices,USA,,5154,,4272666,1885436,10.41,83.8,Food,No
+2018,Coffee,China,Visakhapatnam,,2459,,1064747,8.91,80.59,Food,Yes
+2024,Pulses,Sri Lanka,Chennai,4300,57,2631600,22002,22.79,77.73,Food,
+2019,Rice,USA,Kolkata,301,2575,161938,,1.01,74.69,Cash Crop,Yes
+2016,Rice,UK,Chennai,2597,3473,2228226,1514228,12.81,80.51,Food,Yes
+2022,Coffee,UK,,1942,2069,,589665,17.01,69.81,Beverage,Yes
+2018,Cotton,UK,Visakhapatnam,,,3109938,1484800,,71.19,Beverage,No
+,Sugar,Sri Lanka,Chennai,4758,5775,4244136,1778700,15.51,78.25,Food,No
+2019,Spices,Sri Lanka,Cochin,7644,7026,5664204,2459100,20.09,68.94,Beverage,Yes
+2023,Wheat,China,Kolkata,,7644,2001408,,2.09,61.6,Cash Crop,Yes
+2018,,Bangladesh,Cochin,870,5208,,3676848,9.65,61.86,Food,Yes
+2024,Wheat,Vietnam,,3255,,2789535,4967352,9.35,62.88,Food,Yes
+,Coffee,UAE,Cochin,1728,4332,1095552,2828796,22.16,81.74,Cash Crop,Yes
+2023,Rice,UK,Cochin,486,3717,283338,1932840,3.78,71.81,Beverage,No
+2022,Cotton,Germany,Chennai,6131,3721,4653429,937692,,77.82,Cash Crop,No
+2017,Rice,Bangladesh,Visakhapatnam,6539,2851,,781174,8.21,69.82,Cash Crop,No
+2015,Tea,Germany,Cochin,6501,,5506347,2782626,1.36,66.47,Beverage,Yes
+2017,Rice,China,Cochin,4108,6286,3011164,3815602,4.56,68.68,,Yes
+2018,,China,Visakhapatnam,2566,135,1839822,51165,24.13,79.85,Beverage,No
+,Tea,,Cochin,2382,3165,914688,,10.7,75.63,Beverage,
+2015,Spices,USA,Cochin,1956,4282,960396,2449304,15.8,83.44,Cash Crop,Yes
+2021,Spices,Germany,Cochin,,2518,4314720,1815478,18.15,76.99,Beverage,No
+2022,Tea,Bangladesh,Mumbai,2098,6267,,,9.17,74.25,Cash Crop,No
+N/A,,Vietnam,Visakhapatnam,5576,3669,1382848,1174080,3.68,75.25,Beverage,Yes
+2019,Coffee,Bangladesh,Cochin,9528,1686,8422752,895266,5.16,83.56,Food,No
+2015,Pulses,Sri Lanka,Visakhapatnam,4769,3633,,1169826,7.83,79.71,Beverage,No
+N/A,Rice,Sri Lanka,Kolkata,9442,7373,5023144,4438546,,60.6,Beverage,
+,Cotton,UK,Kolkata,4418,4059,3340008,2025441,9.96,73.35,Cash Crop,Yes
+2023,Rice,Vietnam,Cochin,7164,3376,3825576,2643408,0.17,77.21,Beverage,
+2017,Pulses,Sri Lanka,Visakhapatnam,7546,2268,5516126,1458324,13.09,78.72,Food,No
+2023,Coffee,China,Visakhapatnam,,5897,643020,4534793,23.04,65.33,Food,No
+2015,Spices,Bangladesh,Visakhapatnam,5724,2267,4773816,346851,,81.68,Beverage,Yes
+2015,Cotton,Germany,,7561,5933,3946842,1435786,20.63,83.9,Beverage,Yes
+2018,Sugar,China,Kolkata,,5017,387638,777635,,65.92,Food,No
+,Sugar,USA,Visakhapatnam,1230,,1098390,1057103,,82.07,Cash Crop,Yes
+2020,Pulses,Sri Lanka,Visakhapatnam,6663,3688,2698515,2828696,19.13,62.42,Food,No
+2017,,China,Mumbai,2758,2553,659162,753135,3.58,61.39,Food,Yes
+2015,Spices,China,Mumbai,3600,993,928800,568989,16.44,63.23,Beverage,Yes
+2018,Pulses,USA,Visakhapatnam,8666,5772,6698818,4369404,16.04,61.44,Beverage,No
+2023,Spices,UAE,Chennai,,2887,1871460,1749522,0.64,81.13,Food,No
+,Coffee,Bangladesh,Visakhapatnam,4120,,2908720,951210,19.7,61.48,Cash Crop,No
+2023,Rice,,Visakhapatnam,3359,7372,2589789,,22.58,66.79,Food,Yes
+2021,Coffee,UK,Mumbai,1923,2986,617283,462830,6.69,62.59,Food,No
+2018,Coffee,UAE,Mumbai,1574,4494,1067172,3473862,20.31,67.39,Cash Crop,
+2017,Spices,Sri Lanka,Visakhapatnam,2342,7668,1915756,4025700,2.06,62.26,Food,Yes
+2024,Pulses,China,Visakhapatnam,3343,3997,986185,2382212,15,76.7,Food,No
+2019,Pulses,Vietnam,Visakhapatnam,7090,,4346170,440130,12.14,63.33,Beverage,Yes
+2019,Sugar,USA,Mumbai,5260,1246,2282840,685300,13.65,81.3,Cash Crop,No
+2017,Wheat,USA,Visakhapatnam,3234,4155,,1017975,23.16,80.43,Beverage,Yes
+2023,Rice,Vietnam,Visakhapatnam,2170,,987350,1523469,21.78,60.34,Beverage,No
+2018,Spices,Bangladesh,Cochin,459,7482,,4496682,19.63,82.39,Cash Crop,Yes
+2019,Sugar,UAE,Chennai,1241,1511,unknown,853715,6.84,60.72,Cash Crop,Yes
+2018,Cotton,UK,Kolkata,1735,7977,1509450,5208981,22.8,65.99,Food,No
+2019,,Bangladesh,Chennai,4100,3368,1324300,2030904,,60.81,Beverage,Yes
+N/A,,Vietnam,Cochin,3461,716,2356941,315040,21.33,68.4,Cash Crop,No
+2023,Spices,China,Kolkata,6683,6739,,4602737,8.2,72.85,Beverage,Yes
+2021,Tea,Vietnam,Visakhapatnam,7935,5668,5578305,1938456,1.34,79.92,Beverage,Yes
+2019,Rice,Bangladesh,Cochin,106,2226,,665574,16.73,68.45,Cash Crop,Yes
+2024,Wheat,Germany,Visakhapatnam,3367,3793,2047136,2518552,5.78,77.64,Food,No
+2024,Spices,USA,Mumbai,6664,650,2232440,352300,6.09,64.69,Beverage,No
+2021,,USA,Cochin,9883,2702,unknown,1256430,7.65,,Cash Crop,No
+2024,Sugar,Sri Lanka,Mumbai,5028,4472,2257572,1006200,1.59,65.9,Food,No
+2019,Cotton,Sri Lanka,Cochin,2706,3874,1388178,2897752,,63.59,,No
+2017,Tea,Vietnam,Cochin,6006,3956,3405402,1657564,0.13,,Cash Crop,Yes
+2021,Rice,UK,Mumbai,3373,1029,2118244,384846,11.14,64.55,Beverage,Yes
+2016,Pulses,China,Kolkata,7711,2501,5235769,1698179,2.11,72.82,Cash Crop,
+2023,Coffee,Germany,Chennai,1013,,519669,177636,17.07,,Cash Crop,Yes
+2024,Cotton,UAE,Visakhapatnam,2111,,1475589,671600,5.89,61.99,Beverage,Yes
+2024,Cotton,Bangladesh,Cochin,1542,7892,854268,3014744,23.59,,,Yes
+,Sugar,UK,Visakhapatnam,5646,7828,,1816096,21.78,76.36,Cash Crop,Yes
+N/A,Pulses,China,,1929,3746,790890,1026404,7.24,81.81,Food,No
+2021,Wheat,Sri Lanka,Visakhapatnam,8867,3480,2154681,1127520,19.58,66.1,Beverage,Yes
+2022,Wheat,,Mumbai,6568,3724,,811832,20.08,71.25,Cash Crop,No
+2024,Sugar,Bangladesh,,1029,3979,792330,779884,24.66,83.15,Cash Crop,No
+,Spices,Sri Lanka,Chennai,3799,2815,2970818,1140075,14.95,,Food,Yes
+2016,Wheat,Vietnam,Chennai,9755,7234,2838705,,2.05,69.72,Food,No
+2024,Tea,Bangladesh,Chennai,1154,4419,535456,1900170,16.17,63.29,Food,Yes
+2016,,UAE,Chennai,5844,4830,2448636,1864380,15.62,,,Yes
+2019,Cotton,China,Chennai,2000,165,1282000,65505,15.96,74.53,Cash Crop,Yes
+2019,Cotton,Bangladesh,Chennai,9749,5006,5849400,2588102,7.68,77.95,,No
+2020,Tea,,Mumbai,7080,2053,4240920,1322132,21.49,63.11,Cash Crop,No
+2017,Pulses,,Cochin,7169,742,5555975,129108,,74.99,Food,No
+2022,Wheat,USA,Visakhapatnam,9691,3212,6677099,2360820,5.44,73.76,Cash Crop,Yes
+2015,Cotton,,Chennai,3515,1155,2404260,738045,2.2,72.85,Beverage,
+2020,Coffee,Germany,Mumbai,542,6517,362598,4190431,4.86,77.25,Food,Yes
+,Pulses,UK,Mumbai,6318,3058,4883814,1415854,20.51,80.94,Food,No
+2015,Rice,USA,Mumbai,4752,2211,4186512,1669305,16.92,68.07,Food,Yes
+2021,Rice,Germany,Cochin,8039,5938,unknown,3111512,15.9,82.23,Food,Yes
+2023,Cotton,Bangladesh,Visakhapatnam,7933,7275,3712644,5732700,10.04,64.02,Beverage,No
+2018,,Bangladesh,Cochin,9470,203,4413020,35322,14.45,64.33,Cash Crop,No
+2018,Pulses,Bangladesh,Kolkata,7697,,1947341,2920218,7.7,66.67,Beverage,No
+2020,Cotton,USA,Mumbai,4558,5573,3313666,2808792,11.93,62.99,Cash Crop,Yes
+2017,Sugar,Germany,Kolkata,6691,3749,4810829,993485,19.83,65.76,Beverage,Yes
+2020,Cotton,Vietnam,,9549,5435,7782435,1070695,24.53,62.66,Food,Yes
+2021,,,,2409,4460,621522,1106080,23.31,80.54,Food,No
+2024,,Bangladesh,Cochin,6368,3836,1521952,2332288,23.35,63.47,Beverage,No
+2024,Spices,,Visakhapatnam,,1114,440360,748608,10.06,78.68,Beverage,No
+2017,,Germany,,4440,4250,2597400,3170500,11.72,61.2,Cash Crop,No
+2021,Cotton,Germany,Visakhapatnam,4109,6070,,3362780,17.64,83.71,Beverage,Yes
+2017,Coffee,Sri Lanka,Cochin,6728,1963,5712072,712569,23.05,,Beverage,Yes
+2016,Sugar,Sri Lanka,Chennai,2269,1266,1132231,825432,3.55,60.17,,Yes
+2024,Sugar,UAE,Visakhapatnam,2272,5570,1349568,3325290,7.61,79.1,Cash Crop,Yes
+2018,,Vietnam,Visakhapatnam,5768,7495,2341808,5433875,3.48,72.85,Cash Crop,Yes
+2022,Tea,,,,2451,3430955,997557,15.3,79.48,Beverage,
+2023,Cotton,China,Kolkata,8415,7209,6664680,1946430,7.66,,Cash Crop,Yes
+N/A,Pulses,Vietnam,,8136,1822,,369866,,76.03,,Yes
+2015,Wheat,Sri Lanka,,6889,2010,2597153,964800,1.77,79.66,Food,No
+,,,,885,,526575,1103700,8.74,70.13,,No
+2023,Pulses,Vietnam,,6239,5749,3556230,3903571,21.56,60.07,Beverage,Yes
+2015,Pulses,Sri Lanka,Chennai,6444,4854,5522508,3067728,5.83,81.25,Food,No
+2023,Spices,UAE,Visakhapatnam,2516,7473,1300772,2510928,17.38,69.52,Beverage,Yes
+2022,Pulses,Germany,Cochin,,4796,5161984,1971156,15.74,,Beverage,Yes
+2015,Pulses,Vietnam,Visakhapatnam,4254,2921,2480082,,21.59,60.19,Food,No
+2020,Spices,UAE,Mumbai,5719,5092,1492659,3258880,3.31,72.3,Cash Crop,Yes
+2019,Sugar,Germany,Cochin,2036,710,1433344,411800,24.44,84.66,Beverage,Yes
+,Pulses,UK,Kolkata,3907,6292,,2441296,14.57,66.96,,
+2024,,,Cochin,7251,2685,2856894,1216305,24.89,,Beverage,Yes
+,Tea,Germany,Kolkata,9593,2379,8413061,1063413,22.79,77.18,Cash Crop,Yes
+2020,Coffee,,Kolkata,3336,4004,1404456,900900,5.54,80.37,Cash Crop,Yes
+2019,Spices,China,Cochin,2452,2500,637520,1205000,1.4,70.43,Food,
+,Coffee,Sri Lanka,Kolkata,2032,1182,666496,934962,6.39,67.74,Beverage,No
+2018,Spices,USA,Kolkata,8656,749,7651904,466627,13.19,83.45,,No
+2017,Cotton,USA,Mumbai,5016,6392,1780680,2761344,4.29,76.93,Beverage,Yes
+2017,Cotton,Bangladesh,Visakhapatnam,5598,7520,3230046,5564800,4.19,62.98,,No
+2018,,Germany,Visakhapatnam,1046,2088,858766,,,61.72,Food,
+2023,Wheat,USA,Mumbai,9669,6520,7590165,2686240,0.83,72.09,Cash Crop,Yes
+2016,Cotton,Vietnam,Cochin,1539,6347,978804,4595228,3.05,65.5,Food,
+2023,Wheat,China,Chennai,7830,4697,3178980,756217,,66.35,Beverage,Yes
+2015,Cotton,Germany,Chennai,4957,7862,2909759,2279980,1.58,81.94,Beverage,
+2015,Rice,China,,440,4550,298760,,9.92,62.24,Cash Crop,No
+2019,Cotton,Vietnam,Mumbai,482,4607,259798,764762,11.85,77.88,Beverage,No
+2020,Coffee,USA,Mumbai,9848,2229,5308072,472548,11.28,66.78,Food,No
+2020,Sugar,USA,Kolkata,8591,2888,3462173,1160976,21.73,79.01,Food,Yes
+2017,Pulses,Bangladesh,,238,923,85680,,13.25,78.06,Cash Crop,No
+2021,,,Cochin,458,,338462,69825,11.7,60.18,Food,Yes
+2023,Sugar,Germany,Cochin,5031,1472,2973321,984768,10.27,72.73,Food,Yes
+2024,Tea,Vietnam,Chennai,,6947,8597064,1660333,20.44,63.48,Food,No
+2022,Coffee,UK,Chennai,3556,2725,2752344,,22.38,81.66,Food,Yes
+2020,Tea,,,1727,3230,1265891,1046520,21.33,81.79,Beverage,
+2022,Wheat,Germany,Mumbai,9595,4366,2581055,982350,16.84,70.46,Food,No
+2019,Wheat,Germany,,6726,4025,4062504,3067050,3.43,71.11,Cash Crop,No
+2022,Rice,Bangladesh,Mumbai,5104,6746,4118928,3703554,6.92,67.58,Cash Crop,No
+2024,,,Visakhapatnam,9426,1441,8238324,317020,1.15,77.92,Food,No
+2018,Coffee,USA,Cochin,6752,3268,5334080,1075172,23.27,68.97,Cash Crop,Yes
+2024,Tea,UAE,Cochin,6516,4257,4665456,1162161,16.52,66.69,Food,No
+2022,Sugar,,Kolkata,,664,1043130,351920,,70.81,Cash Crop,
+N/A,Wheat,Vietnam,,3935,5727,3498215,2531334,7.79,62.29,Cash Crop,Yes
+2016,Cotton,UAE,Visakhapatnam,8117,3021,,1039224,21.14,78.67,Food,No
+,Wheat,Bangladesh,,,3615,936416,1362855,6.49,60.31,Food,No
+2023,,USA,,9529,3626,2429895,2103080,0.04,76.11,Beverage,
+,Cotton,UAE,Mumbai,7005,4620,3957825,2702700,9.41,64.57,Food,Yes
+,Cotton,USA,Kolkata,,7029,2634732,4287690,14.27,65.81,Food,No
+2015,Tea,USA,Mumbai,9290,6059,,4647253,11.97,75.89,Beverage,Yes
+2023,Tea,USA,Chennai,2667,320,1744218,,21.55,84.82,Food,No
+2015,Coffee,Sri Lanka,Mumbai,1407,,426321,876708,2.64,79.44,Food,Yes
+2019,Coffee,Germany,Chennai,8948,,2469648,790652,13.85,65.65,Beverage,No
+2018,Spices,USA,,2760,6066,1184040,1067616,12.82,64.4,Food,No
+2017,Pulses,Sri Lanka,Kolkata,3830,6900,1750310,3174000,7.03,81.66,Food,No
+N/A,Spices,Bangladesh,Cochin,6307,1440,2920141,624960,,71.1,Beverage,
+2016,Rice,UAE,Mumbai,3262,7497,,3223710,18.82,63.43,Beverage,No
+2017,Wheat,Germany,Chennai,1240,3404,472440,,18.32,81.56,Cash Crop,Yes
+,Coffee,UK,Mumbai,,4185,6409942,1561005,21.9,80.4,Food,No
+N/A,Tea,UAE,Cochin,1808,6128,1603696,1807760,18.07,84.6,Cash Crop,No
+2016,Sugar,Germany,Cochin,3730,6382,842980,1142378,5.8,,Cash Crop,
+2024,Tea,UK,Visakhapatnam,3311,7381,1572725,,,81.29,Beverage,No
+2022,Wheat,UAE,,6638,5139,unknown,3186180,7.69,61.31,Food,No
+2016,Spices,Germany,Kolkata,9802,6158,4881396,1126914,6.05,62.61,Food,
+2019,Tea,UAE,Chennai,575,3657,166750,,1.83,74.22,Beverage,Yes
+2021,Pulses,UAE,Visakhapatnam,7784,2633,,974210,18.6,73.29,Cash Crop,Yes
+,Rice,UK,Kolkata,9268,4123,7154896,2816009,17.78,71.45,Beverage,No
+2015,,UAE,Mumbai,1307,3125,858699,1612500,5.86,69.92,Food,No
+2020,Spices,UAE,Chennai,2060,3956,1339000,2765244,18.73,70.78,Beverage,Yes
+2015,Pulses,UK,Cochin,657,339,370548,247809,22.95,74.23,Food,No
+2016,,,,,2530,858268,670450,2.7,60.05,Cash Crop,No
+2015,Spices,USA,Mumbai,4861,6664,2673550,2585632,5.82,66.52,Food,No
+2019,Cotton,Vietnam,Visakhapatnam,,3302,5095818,1598168,18.76,72.96,Cash Crop,Yes
+2024,,China,Visakhapatnam,7063,,4230737,4404350,6.86,78.06,Cash Crop,Yes
+2023,Pulses,Sri Lanka,Visakhapatnam,7266,,,2025837,15.62,64.35,Food,Yes
+,Rice,China,Cochin,8029,328,5283082,51824,,,Food,Yes
+2015,Wheat,China,Kolkata,5447,2974,,1299638,11.31,77.86,Cash Crop,Yes
+2015,Sugar,Germany,Kolkata,7369,,5143562,338310,18.48,71.12,Beverage,No
+,Rice,USA,Chennai,9902,5008,7000714,996592,17.16,60.68,Food,
+2023,Spices,Germany,Cochin,,303,unknown,201798,20.38,71.23,,No
+2017,Rice,USA,Visakhapatnam,2554,4326,,3404562,21.94,67.41,Cash Crop,No
+2015,,UK,Visakhapatnam,4594,4826,unknown,3551936,19.33,83.24,Beverage,Yes
+2019,,UK,Mumbai,2046,874,746790,373198,16.79,63.12,Food,Yes
+2021,Coffee,Vietnam,Mumbai,2908,7726,1785512,3468974,0.79,76.31,Cash Crop,No
+2020,,USA,Visakhapatnam,6742,3882,4456462,2864916,13.37,,Beverage,
+2015,Cotton,,Visakhapatnam,3925,749,unknown,597702,0.94,71.15,Cash Crop,No
+2019,Rice,Bangladesh,Cochin,3636,6759,2297952,5184153,20.2,73.85,Food,No
+2019,Spices,Vietnam,Kolkata,6168,5495,3423240,4154220,8.02,67.45,Beverage,No
+N/A,Spices,Vietnam,Mumbai,3902,1430,3488388,,14.06,71.38,Cash Crop,No
+2017,,UAE,Kolkata,,3946,1948394,2876634,,64.09,Beverage,Yes
+2019,Spices,Bangladesh,Cochin,,,898380,510008,19.56,67.6,,No
+2021,Tea,Germany,,5906,,3785746,1774503,22.16,75.53,Beverage,Yes
+2019,Wheat,Bangladesh,Kolkata,6242,6584,,4128168,9.97,67.55,Food,No
+N/A,,Germany,Visakhapatnam,2919,5784,2084166,1781472,21.57,82.49,Cash Crop,No
+2019,Coffee,UK,,9194,6103,3741958,,6.68,,Food,
+2024,Coffee,China,Chennai,464,3206,150336,1000272,13.37,70.97,Cash Crop,No
+2024,Wheat,UK,Kolkata,4358,3438,1468646,2028420,21.47,60.97,Cash Crop,Yes
+2017,Cotton,UK,Kolkata,,,1731822,1472666,8.15,72.49,Food,No
+2015,Coffee,China,Visakhapatnam,1963,5684,1444768,3205776,23.85,79.12,Cash Crop,Yes
+2019,Sugar,Bangladesh,Cochin,215,433,unknown,211304,3.05,66.64,Beverage,No
+2023,Spices,Vietnam,Chennai,7184,5860,5546048,4430160,0.46,80.17,Cash Crop,No
+2015,Wheat,Bangladesh,Visakhapatnam,8116,391,6005840,129030,22.6,66.3,Food,No
+2017,Pulses,Germany,,2484,5984,1445688,2615008,1.72,80.59,Beverage,Yes
+2018,Coffee,,Mumbai,4035,2037,879630,684432,24.8,62.13,Beverage,No
+2015,Wheat,,Chennai,7842,4109,6916644,1179283,23.78,81.65,Cash Crop,No
+2015,Tea,UAE,Cochin,5542,4989,3596758,1391931,3.43,72.48,Cash Crop,No
+2022,Rice,UK,Visakhapatnam,2590,3159,707070,1083537,13.44,67.41,,No
+2016,Spices,China,Kolkata,7080,4132,5465760,1921380,4.62,66.63,,No
+2022,Wheat,UK,Chennai,9234,5680,7978176,1664240,10.7,70.8,,Yes
+2021,Rice,USA,Cochin,7761,4565,3686475,753225,1.54,84.98,Cash Crop,
+2024,Coffee,Bangladesh,Kolkata,1824,2848,450528,,5.6,65.51,,No
+2024,Rice,UAE,Mumbai,8282,3290,3395620,,9.08,62.58,Food,No
+2016,,Germany,Mumbai,2867,2038,2436950,802972,10.97,74.63,,Yes
+N/A,Wheat,China,,1237,6078,1015577,,24.44,72.21,Food,No
+2020,Tea,UAE,,4217,3464,3769998,820968,,,Food,Yes
+2017,Cotton,Germany,Mumbai,3520,1899,2601280,527922,,76.67,Food,
+2016,Coffee,Bangladesh,,5945,355,,173950,13.43,66.68,Beverage,No
+2015,Wheat,UK,Kolkata,4878,3663,2507292,560439,21,82.77,Food,Yes
+2020,Spices,Bangladesh,Kolkata,4006,2799,3052572,1332324,8.48,70.89,Beverage,No
+2019,Coffee,Sri Lanka,Mumbai,3737,5014,unknown,2802826,17.72,,Food,Yes
+2023,Sugar,USA,Chennai,,6730,2323333,3062150,24.84,78.56,Cash Crop,Yes
+2015,Rice,Sri Lanka,Visakhapatnam,6029,1185,1881048,895860,7.87,76.08,Cash Crop,Yes
+2021,Cotton,China,Chennai,376,5580,138744,2086920,16.85,67.89,Food,No
+2019,Spices,UAE,Cochin,2099,255,1400033,126735,21.11,,Cash Crop,Yes
+,Sugar,China,Cochin,1327,7402,1163779,3478940,22.9,65.5,Beverage,Yes
+N/A,Pulses,UK,Mumbai,6437,7599,1371081,5380092,17.95,71.12,Food,No
+2017,Wheat,Germany,Mumbai,3835,4641,1867645,1531530,7.09,82.49,Beverage,No
+2021,Tea,Bangladesh,,795,3500,308460,2684500,8.16,63.34,Food,
+2020,Coffee,Sri Lanka,Cochin,9601,7264,3398754,3886240,0.52,,Cash Crop,No
+2016,Rice,,Chennai,4252,6055,3257032,4644185,19.02,80.53,Beverage,No
+2020,Coffee,Sri Lanka,Chennai,8001,3861,7144893,992277,1.07,84.24,Cash Crop,No
+2016,Cotton,UK,Mumbai,7570,3672,unknown,2496960,21.62,71.35,Cash Crop,Yes
+2016,Wheat,Sri Lanka,Visakhapatnam,7637,3649,2092538,2039791,2.97,72.67,Food,No
+2016,Coffee,UK,Chennai,2941,2601,1399916,1157445,4.3,74.3,Beverage,Yes
+2017,Rice,Vietnam,Cochin,4308,5191,3635952,1661120,11.91,,,No
+2016,Wheat,China,Kolkata,8833,4358,4787486,2091840,18.45,81.46,Food,Yes
+2018,Coffee,Bangladesh,Kolkata,1188,,741312,230478,3.48,64.27,Food,Yes
+2023,Tea,UAE,Kolkata,3463,2758,2666510,948752,11,70.92,Food,No
+2020,Spices,Germany,Visakhapatnam,124,2041,88040,328601,12.07,71.6,,No
+2015,Wheat,UAE,Mumbai,9864,,3758184,2389424,5.31,79.73,Food,Yes
+2022,Spices,China,Cochin,,,4102308,,2.89,75.07,,No
+2021,Pulses,Germany,Visakhapatnam,5768,3692,1516984,1222052,20.91,76.36,Beverage,No
+2024,Wheat,Sri Lanka,Cochin,,,1990224,1923240,12.56,84.95,Cash Crop,Yes
+2017,Tea,Vietnam,Cochin,8168,1872,3201856,335088,0.36,,Beverage,Yes
+2015,Spices,Vietnam,Mumbai,2335,7131,1994090,5312595,20.07,,Food,Yes
+2019,Sugar,USA,Kolkata,,3323,6026925,,24.52,,Cash Crop,No
+2018,Rice,China,Mumbai,8492,6225,5137660,3299250,15.15,68.69,Food,No
+2024,Sugar,China,Visakhapatnam,8548,4588,2496016,,12.59,60.54,Cash Crop,No
+2022,Coffee,Bangladesh,Visakhapatnam,3847,6355,2419763,2840685,,62.29,Cash Crop,No
+2015,Tea,UAE,Visakhapatnam,3275,6960,2793575,3549600,23.81,77.02,Food,Yes
+,Sugar,,Mumbai,4997,4399,3163101,2300677,18.86,81.98,Beverage,No
+2015,Wheat,China,Cochin,5137,570,3097611,400710,11.14,72.86,Beverage,Yes
+N/A,Coffee,Sri Lanka,Cochin,7527,1026,unknown,463752,14.81,73.48,Cash Crop,No
+2022,Coffee,Sri Lanka,Chennai,8705,3772,2707255,2150040,,66.38,Food,No
+,Sugar,Germany,Visakhapatnam,2114,3601,1213436,1422395,4.86,79.2,Food,Yes
+2016,Pulses,UK,,1481,4155,382098,1603830,11.18,78.79,Cash Crop,No
+2020,Sugar,UK,Chennai,1198,2823,289916,,20.75,74.71,Beverage,No
+N/A,Pulses,,Cochin,3526,2602,,869068,16.37,65.32,Food,
+2016,Tea,UK,Visakhapatnam,3755,,1858725,1778194,10.28,,Beverage,No
+2017,,Bangladesh,Kolkata,8038,3957,2548046,2025984,16.58,61.61,Beverage,Yes
+2023,Sugar,USA,Visakhapatnam,9201,5729,6725931,2474928,2.96,74.82,Cash Crop,Yes
+2021,,Germany,Mumbai,287,6629,120827,4653558,10.04,,Cash Crop,Yes
+2021,Pulses,Sri Lanka,,5509,5280,2010785,2560800,19.83,81.46,Beverage,Yes
+N/A,Sugar,UK,Cochin,2192,,1845664,62822,5.51,71.59,Food,No
+2022,Spices,UAE,Mumbai,2230,,791650,1793436,,,,No
+,Wheat,,Mumbai,5342,3014,,1877722,23.77,,Cash Crop,No
+2022,Cotton,Vietnam,Kolkata,8649,2966,2499561,2224500,5.25,66.88,Beverage,Yes
+,Cotton,Bangladesh,Cochin,,7319,,3447249,6.52,69.95,Food,
+2022,Pulses,Sri Lanka,,5285,2850,1120420,458850,24.24,83.29,Food,No
+2023,Spices,Bangladesh,Kolkata,5876,6002,3743012,3439146,18.37,68.46,Cash Crop,No
+2017,Spices,Bangladesh,Chennai,8013,5360,5905581,1189920,,82.85,Beverage,No
+2017,Coffee,Bangladesh,,7647,1802,6010542,1328074,21.32,84.53,Food,Yes
+2016,Pulses,Germany,Visakhapatnam,7923,2660,2765127,931000,2.9,76.55,Cash Crop,Yes
+2024,Rice,Bangladesh,Cochin,,3925,6403845,,17.65,80.42,Food,
+,,Bangladesh,Mumbai,6565,1154,1358955,754716,12.59,78.74,Food,Yes
+,Tea,Vietnam,Visakhapatnam,1597,2586,364116,486168,20.73,77.49,,No
+2019,Cotton,UAE,Cochin,2655,5040,1314225,1053360,12.7,67.67,Cash Crop,No
